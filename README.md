@@ -16,7 +16,6 @@ Requirements
 
 + nasm
 + qemu
-+ gcc
 
 Mentor
 ------
